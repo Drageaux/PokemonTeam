@@ -20,9 +20,9 @@ Knight (Dragonite) (M) @ Leftovers
 Ability: Multiscale
 EVs: 252 HP / 144 Atk / 112 Spe
 Adamant Nature
-- Outrage
+- Dragon Tail
 - Fly
-- Fire Punch
+- Toxic
 - Dragon Dance
 
 Death (Scizor-Mega) (M) @ Scizorite
@@ -34,8 +34,9 @@ Jolly Nature
 - Roost
 - Swords Dance
 
-King (Nidoking) (M) @ Life Orb
+King (Nidoking) @ Life Orb
 Ability: Sheer Force
+Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
 - Earth Power
@@ -43,13 +44,12 @@ Timid Nature
 - Sludge Wave
 - Ice Beam
 
-Bliss (Blissey) @ Rocky Helmet
-Ability: Serene Grace
-Shiny: Yes
-EVs: 252 HP / 252 Def / 4 SpA
-Bold Nature
-- Flamethrower
-- Soft-Boiled
-- Wish
-- Toxic
+Fang (Arcanine) (M) @ Choice Band
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Flame Charge
+- Wild Charge
+- Extreme Speed
+- Close Combat
 
